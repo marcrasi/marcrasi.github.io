@@ -1,8 +1,4 @@
-github: [metadata]
+name: Marc Rasi
+author: Marc Rasi
+
 theme: minima
-kramdown:
-  input: GFM
-  hard_wrap: false
-gems:
-  - jekyll-coffeescript
-  - jekyll-paginate
