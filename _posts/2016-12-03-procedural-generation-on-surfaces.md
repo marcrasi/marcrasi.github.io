@@ -5,7 +5,7 @@ date: 2016-12-03 14:00:00 -0800
 categories: procedural-generation
 ---
 
-I want to procedurally generate a pretty map to print on a tshirt with all-over tshirt printing. I want the procedural generation to be aware of the geometry and topology of the tshirt so that it can create things like roads and rivers that actually wrap around it in the right places.
+I want to procedurally generate a pretty map to print on a t-shirt with all-over t-shirt printing. I want the procedural generation to be aware of the geometry and topology of the t-shirt so that it can create things like roads and rivers that actually wrap around it in the right places.
 
 To start, I'm going to implement [Straightest Geodesics on Polyhedral Surfaces][geodesics] to make it easy for me to run simulations and stuff on a t-shirt-shaped surface. The authors of that paper made a [cool video][cool-video].
 
