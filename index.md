@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 Hi, I'm Marc Rasi. I currently work as a Software Engineer at [Coursera](https://www.coursera.org).
