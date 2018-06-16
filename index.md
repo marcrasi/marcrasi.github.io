@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi, I'm Marc Rasi. I currently work as a Software Engineer at [Coursera](https://www.coursera.org).
+Hi, I'm Marc Rasi. I work on TensorFlow at Google.
 
 Here are some fun things that I have made:
 
