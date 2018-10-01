@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi, I'm Marc Rasi. I work on TensorFlow at Google.
+Hi, I'm Marc Rasi. I work on TensorFlow at Google. Contact me at firstname dot lastname at gmail.
 
 Here are some fun things that I have made:
 
